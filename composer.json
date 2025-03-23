@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^8.0  || ^8.1|| ^8.2|| ^8.3|| ^8.4",
         "rdx/laravelcollective-html": "^6",
         "illuminate/database": "^10 || ^11 || ^12",
         "illuminate/validation": "^10 || ^11 || ^12"
